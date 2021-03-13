@@ -1,0 +1,10 @@
+title: My Amazing Course
+description: "I am \U0001F9B8‍♂️ \U0001F4AAon fixing the mistakes I haven done while . If any have ideas \U0001F4A1 would be greatly use to this \U0001F30E\U0001F5FA and my ⏲️ can weigh me down I am  resting, for the moment. I am making changes daily, I love you all."
+steps:
+  - course: githubtraining/introduction-to-github
+    description: The first step in your course
+  - link: 'https://lab.github.com'
+    title: Check out Learning Lab for more courses!
+    description: >-
+      There are many more courses available on Learning Lab for you to check
+      out.
